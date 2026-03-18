@@ -11,6 +11,10 @@ The task viewer provides a detailed insight into the entire system, whereas the 
 
 - Tested on: `NUCLEO-C071RB`
 
+Built with **Fractal System Architecture (FSA)**
+
+Learn more: https://github.com/fractal-programming
+
 ## Architecture
 
 This repository contains the code running on the microcontroller. Highlighted in blue. Check out [CodeOrb](https://github.com/fractal-programming/code-orb#codeorb-start) the microcontroller debugger as well!
